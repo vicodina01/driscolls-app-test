@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Juliet Oma",
+      "email": "julie@yahoo.com",
+      "number": "08100000012"
+    },
+    {
+      "id": "2",
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "number": "08111111111"
+    },
+    {
+      "id": "3",
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "number": "09022222222"
+    },
+    {
+      "id": "4",
+      "name": "Grace Funsho",
+      "email": "gracefunsho@gmail.com",
+      "number": "09033333333"
+    },
+    {
+      "id": "5",
+      "name": "vicodina flowers",
+      "email": "gracefunsho@gmail.com",
+      "number": "09033333323"
+    }
+  ],
+  "news": [
+    {
+      "id": "1",
+      "sourceName": "ABC News",
+      "author": "HALELUYA HADERO Associated Press",
+      "title": "Amazon is removing Just Walk Out technology from its Fresh grocery stores in the US - ABC News",
+      "description": "Amazon is removing Just Walk Out technology from its Amazon Fresh stores as part of an effort to revamp the grocery chain",
+      "url": "https://abcnews.go.com/Business/wireStory/amazon-removing-walk-technology-fresh-grocery-stores-us-108755691",
+      "urlToImage": "https://i.abcnewsfe.com/a/69eacc1a-abf5-4ed6-9b94-303a7804726f/wirestory_bb36bb24803bd56747c6f99814224265_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-03T02:55:11Z",
+      "content": "NEW YORK -- Amazon is removing Just Walk Out technology from its Amazon Fresh stores as part of an effort to revamp the grocery chain. \r\nThe companys well-known technology lets customers pay for item… [+1861 chars]"
+    },
+    {
+      "id": "2",
+      "sourceName": "CNN",
+      "author": "Chris Isidore",
+      "title": "Tesla sales plunge far more than expected - CNN",
+      "description": "Tesla posted its first annual drop in sales since the first year of the pandemic, as increased electric vehicle competition from Chinese and Western automakers ate into demand.",
+      "url": "https://www.cnn.com/2024/04/02/business/tesla-sales/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2113300644.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-03T02:26:15Z",
+      "content": "Tesla posted its first annual drop in sales since the first year of the pandemic, as increased electric vehicle competition from Chinese and Western automakers ate into demand.\r\nCEO Elon Musks electr… [+3842 chars]"
+    },
+    {
+      "id": "3",
+      "sourceName": "CNBC",
+      "author": "Sarah Min",
+      "title": "Stock futures are little changed after Dow's second straight losing day in new quarter: Live updates - CNBC",
+      "description": "A recent inflation reading and strong economic data have investors concerned the Federal Reserve will take longer to cut interest rates.",
+      "url": "https://www.cnbc.com/2024/04/02/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107382581-17096589542024-03-05t171307z_746103105_rc2pf6aga3b2_rtrmadp_0_usa-stocks.jpeg?v=1712096290&w=1920&h=1080",
+      "publishedAt": "2024-04-03T02:10:00Z",
+      "content": "U.S. stock futures were little changed Tuesday night after the Dow Jones Industrial Average fell for a second day in a rough start to the quarter.\r\nDow futures fell by 60 points, or 0.08%. S&amp;P 50… [+2020 chars]"
+    },
+    {
+      "id": "4",
+      "sourceName": "Deadline",
+      "author": "Dade Hayes, Jill Goldsmith, Dominic Patten",
+      "title": "As Disney Proxy Fight Nears End, Succession Saga Will Keep Heat On Bob Iger Regardless Of Shareholder Vote Tally - Deadline",
+      "description": "Disney shareholders are about to choose their board but the pressure is on Bob Iger regardless of who wins the company proxy fight with Nelson Peltz.",
+      "url": "http://deadline.com/2024/04/disney-proxy-fight-bob-iger-succession-nelson-peltz-shareholder-meeting-1235874236/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/02/bob-disney.jpg?w=1024",
+      "publishedAt": "2024-04-03T01:40:00Z",
+      "content": "The minutes are ticking down to the close of Disney’s bitter proxy fight with Nelson Peltz, whose attempt to scale the board is a direct challenge to CEO Bob Iger.\r\nBarring any hanging chads, results… [+5632 chars]"
+    },
+    {
+      "id": "5",
+      "sourceName": "The Verge",
+      "author": "Joanna Nelius",
+      "title": "Intel’s chipmaking business lost $7 billion last year - The Verge",
+      "description": "Intel’s recent investment in extreme ultraviolet (EUV) lithography machines should turn things around by 2027.",
+      "url": "https://www.theverge.com/2024/4/2/24119454/intels-chipmaking-business-7-billion-loss",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Z9o1YDpwzPBsqYtdbB2kUKqm0g8=/0x0:3596x2397/1200x628/filters:focal(2146x1102:2147x1103)/cdn.vox-cdn.com/uploads/chorus_asset/file/25368150/2021265321.jpg",
+      "publishedAt": "2024-04-02T23:44:21Z",
+      "content": "Intels chipmaking business lost a boatload of billions last year\r\nIntels chipmaking business lost a boatload of billions last year\r\n / Past outsourcing decisions put the company in this spot, but wil… [+1847 chars]"
+    },
+    {
+      "id": "6",
+      "sourceName": "The Washington Post",
+      "author": "Ellen Nakashima, Joseph Menn",
+      "title": "DHS report rips Microsoft for 'cascade' of errors in China hack - The Washington Post - The Washington Post",
+      "description": "The independent Cyber Safety Review Board’s forthcoming report knocks the tech giant for shoddy cybersecurity, lax corporate culture and a deliberate lack of transparency.",
+      "url": "https://www.washingtonpost.com/national-security/2024/04/02/microsoft-cyber-china-hack-report/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L2BZQVHJHQI6XIV2HPRR2NESLA.jpg&w=1440",
+      "publishedAt": "2024-04-02T23:00:00Z",
+      "content": "A review board, mandated by President Biden, issued a scathing report Tuesday detailing lapses by the tech giant Microsoft that led to a targeted Chinese hack last year of top U.S. government officia… [+10983 chars]"
+    },
+    {
+      "id": "7",
+      "sourceName": "Reuters",
+      "author": "David Shepardson",
+      "title": "FCC to vote to restore net neutrality rules, reversing Trump - Reuters",
+      "description": "The U.S. Federal Communications Commission will vote to reinstate landmark net neutrality rules and assume new regulatory oversight of broadband internet that was rescinded under former President Donald Trump, the agency's chair said.",
+      "url": "https://www.reuters.com/technology/fcc-vote-restore-net-neutrality-rules-reversing-trump-2024-04-02/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/LSR5DU6PMFNLRLV6GKP4SHA6SI.jpg?auth=ef6eab180decebf0d51759c5a74ec72fbc94f0fd198ac4a6689a6d21f2ad5458&width=1920&height=1005&smart=true",
+      "publishedAt": "2024-04-02T22:51:00Z",
+      "content": null
+    },
+    {
+      "id": "8",
+      "sourceName": "CBS News",
+      "author": "Kate Gibson",
+      "title": "Costco offers eligible members access to GLP-1 weight-loss drugs - CBS News",
+      "description": "Members of the warehouse club can now sign up for a service that offers access to drugs like Ozempic.",
+      "url": "https://www.cbsnews.com/news/costco-ozempic-weight-loss-sesame/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/03/d470addf-134d-41f4-b119-72d0c5d43e62/thumbnail/1200x630/189d27f6b9fcacac2665eecad0576530/ozempic.jpg?v=28e996fb04f1867b9e0abe6d7ce5112f",
+      "publishedAt": "2024-04-02T21:42:09Z",
+      "content": "Some Costco members may soon have less of a hankering for the retailer's popular $1.50 hot dog and soda meal. \r\nThe warehouse club and health care marketplace Sesame are now teaming to offer access t… [+1479 chars]"
+    },
+    {
+      "id": "9",
+      "sourceName": "Associated Press",
+      "author": "JENNIFER McDERMOTT",
+      "title": "Biden administration approves the nation's eighth large offshore wind project - The Associated Press",
+      "description": "The Biden administration approved a new wind project off the Massachusetts coast Tuesday that is large enough it will provide more electricity than the state’s former coal-fired generating station. Avangrid’s New England Wind is the United States’ eighth larg…",
+      "url": "https://apnews.com/article/offshore-wind-new-england-coal-avangrid-biden-clean-energy-vineyard-wind-bf26a48331c46f352bafeb6c2ac4068d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cd9fc9e/2147483647/strip/true/crop/5944x3344+0+309/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2Fb4%2Fc881c2fc2cc62f297ba7b0b48370%2F2e3bbe8471d3450f93a3fab2879b0d15",
+      "publishedAt": "2024-04-02T18:07:00Z",
+      "content": "The Biden administration approved a new wind project off the Massachusetts coast Tuesday that is large enough it will provide more electricity than the states former coal-fired generating station.\r\nA… [+2747 chars]"
+    },
+    {
+      "id": "10",
+      "sourceName": "The Cincinnati Enquirer",
+      "author": "Mariyam Muhammad",
+      "title": "Solar Eclipse 2024: New data changes path of totality map in Ohio - The Cincinnati Enquirer",
+      "description": "The path of 2024 solar eclipse just moved a little bit farther from Canton, Cincinnati and Columbus as Ohio's area of totality shrinks based on new data.",
+      "url": "https://www.cincinnati.com/story/news/2024/04/02/solar-eclipse-2024-new-data-changes-path-totality-ohio/73178230007/",
+      "urlToImage": "https://www.cincinnati.com/gcdn/authoring/authoring-images/2024/02/19/PCIN/72664048007-map-usa-2024-cities.png?crop=1039,585,x0,y32&width=1039&height=585&format=pjpg&auto=webp",
+      "publishedAt": "2024-04-02T18:04:25Z",
+      "content": "A total solar eclipse will cross North American skies on April 8, and Ohio residents will have a once-in-a-lifetime opportunity to view it. \r\nBut now, fewer Ohioans will experience 100% darkness duri… [+2901 chars]"
+    }
+  ]
+}

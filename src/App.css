@@ -1,0 +1,24 @@
+h3{
+    font-family: "Blog Script W00 Regular";
+    color:#cc261a;
+    font-size: 40px;
+    line-height: 50px;
+    padding-top: 20px;
+}
+
+.navbar .navbar-nav li a.nav-link {
+    color: #4a773c;
+    font-size: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    line-height: 18px;
+    margin: 0;
+    border-right: 1px #dfdcda solid;
+}
+
+a.nav-link.active {
+    font-weight: bold;
+}
+a.nav-link:hover {
+    border-bottom: 1px dashed #4a773c;
+}
